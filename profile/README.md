@@ -1,18 +1,7 @@
-<!--
+#Bizarre Bits
 
-**Here are some ideas to get you started:**
+Bizarre Bits is an independent game development studio comprised of two passionate developers. Our team is dedicated to creating immersive and entertaining games. Our first project, Another Game Engine, is a custom-made game engine that we are building to understand the principles behind game engine development. With this project, we hope to gain the knowledge and skills needed to create amazing games that will leave players awestruck.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+At Bizarre Bits, we strongly believe that the best way to learn is by doing, and we are having a great time as we work to bring our vision to life. Our goal is to use our skills and experience to create unique and entertaining gaming experiences that will leave a lasting impression on our players.
 
-# Bizarre Bits
-
-Bizarre Bits is an indie game development studio comprised of two developers (just for now). With a passion for both fun and education, we strive to create innovative and entertaining games. Our first project is a unique take on the classic game of Tic-Tac-Toe, built with the Pygame. 
-
-We believe that the best way to learn is by doing, and we're having a blast as we work to bring our vision to life. Whether it's for a few laughs or a chance to flex our programming muscles, we're dedicated to making games that will engage and delight players of all ages. 
-
-Join us on our journey as we turn our bizarre bytes into brilliant games!
+Join us on our journey as we turn our bizarre bits into brilliant games!
